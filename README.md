@@ -31,11 +31,11 @@ const tirthProfile = {
 <div align="center">
 
 <a href="https://moinchhipa.github.io/Resume_builder/">
-  <img src="resume.png" width="45%" />
+  <img src="image (1).png" width="45%" />
 </a>
 &nbsp;&nbsp;
 <a href="https://snapbuytirth.vercel.app/">
-  <img src="snapbuy.png" width="45%" />
+  <img src="image (2).png" width="45%" />
 </a>
 
 </div>
