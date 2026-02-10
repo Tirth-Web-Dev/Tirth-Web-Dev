@@ -1,4 +1,3 @@
-# Tirth Dabgar
 ### Frontend Developer • Modern, accessible & performant interfaces
 
 ```js
@@ -23,7 +22,7 @@ const tirthProfile = {
 };
 ```
 
-## 🚀 My Tech Stack
+## My Tech Stack
 
 <div align="center">
 
@@ -55,7 +54,7 @@ const tirthProfile = {
 </div>
 
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
