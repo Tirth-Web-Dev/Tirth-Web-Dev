@@ -23,8 +23,6 @@ const tirthProfile = {
 };
 ```
 
---
-
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -36,8 +34,6 @@ const tirthProfile = {
 ![Vite](https://img.shields.io/badge/Vite-334155?style=flat&logo=vite&logoColor=646CFF)
 ![NPM](https://img.shields.io/badge/NPM-334155?style=flat&logo=npm&logoColor=CB3837)
 
---
-
 ## Projects
 
 | Project | Live | Code |
@@ -45,8 +41,6 @@ const tirthProfile = {
 | Resume Builder | [![Live](https://img.shields.io/badge/Live-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://moinchhipa.github.io/Resume_builder/) | [![Repo](https://img.shields.io/badge/Repo-475569?style=flat&logo=github&logoColor=white)](https://github.com/moinchhipa/Resume_builder) |
 | SnapBuy E-commerce | [![Live](https://img.shields.io/badge/Live-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://snapbuytirth.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-475569?style=flat&logo=github&logoColor=white)](https://github.com/Tirth-Web-Dev/FUTURE_FS_02) |
 | Netflix Clone | [![Live](https://img.shields.io/badge/Live-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://netflix-clone-psi-tawny-43.vercel.app/) | [![Repo](https://img.shields.io/badge/Repo-475569?style=flat&logo=github&logoColor=white)](https://github.com/Tirth-Web-Dev/Netflix-Clone) |
-
----
 
 ## Connect
 
