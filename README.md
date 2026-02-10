@@ -1,16 +1,29 @@
-## Hi there 👋
+```js
+// aboutMe.js
 
-<!--
-**Tirth-Web-Dev/Tirth-Web-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const profile = {
+  role: "Frontend Developer",
+  focus: "Modern, clean user interfaces",
 
-Here are some ideas to get you started:
+  stack: ["JavaScript", "React", "HTML", "CSS"],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests: ["UI polish", "UX details", "clean architecture"],
+
+  currentlyWorkingOn: [
+    "React-based projects",
+    "Improving UI quality",
+    "JavaScript fundamentals"
+  ],
+
+  projects: {
+    weatherApp: "API-driven UI with dynamic states",
+    resumeBuilder: "Live preview, modern layout",
+    todoSystem: "State-driven, predictable logic"
+  },
+
+  principles: [
+    "Clarity over cleverness",
+    "Quality over quantity",
+    "Details matter"
+  ]
+};
