@@ -23,7 +23,7 @@ const tirthProfile = {
 };
 ```
 
----
+--
 
 ## Tech Stack
 
@@ -36,7 +36,7 @@ const tirthProfile = {
 ![Vite](https://img.shields.io/badge/Vite-334155?style=flat&logo=vite&logoColor=646CFF)
 ![NPM](https://img.shields.io/badge/NPM-334155?style=flat&logo=npm&logoColor=CB3837)
 
----
+--
 
 ## Projects
 
